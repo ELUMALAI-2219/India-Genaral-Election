@@ -2,7 +2,8 @@
 
  Overview
        
-         This project analyzes the 2024 Indian General Election data using Power BI to provide insights into seat distribution, party performance, and regional              trends through an interactive dashboard.
+         This project analyzes the 2024 Indian General Election data using Power BI to provide insights into seat distribution,
+         party performance,and regional trends through an interactive dashboard.
 
  Objective
 
