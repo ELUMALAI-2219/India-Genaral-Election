@@ -1,23 +1,35 @@
-# India-Genaral-Election
-🔹 1. Landing Page
-       Navigation panel for smooth user experience
-       Buttons to access different report pages
-🔹 2. Overview Analysis
-       Total Seats: 543
-       Alliance-wise seat distribution:
-       NDA
-       I.N.D.I.A
-       Others
-       KPI Cards and Donut Charts
-🔹 3. State Demographic Analysis
-       State-wise seat distribution
-       Map visualization for geographical insights
-       Majority alliance by state
-🔹 4. Political Landscape by State
-       State-level filtering using slicers
-       Party-wise results and seat share
-       Interactive visuals (charts & tables)
-🔹 5. Constituency Analysis
-       Constituency-level results
-       Winning candidate, runner-up, and vote share
-       Total votes, EVM votes, and postal votes
+ India General Election Analysis Dashboard (Power BI)
+
+ Overview
+       
+         This project analyzes the 2024 Indian General Election data using Power BI to provide insights into seat distribution, party performance, and regional              trends through an interactive dashboard.
+
+ Objective
+
+          Analyze election results across states and constituencies
+          Compare alliance performance (NDA vs I.N.D.I.A vs Others)
+          Identify regional dominance and voting patterns
+          Build an interactive dashboard for data-driven insights
+
+ Key Metrics
+ 
+        Total Seats: 543
+        Alliance-wise Seat Distribution: NDA | I.N.D.I.A | Others
+        State-wise Results Analysis
+        Constituency-level Vote Details
+        
+ Key Insights
+    
+        Identified dominant alliances across different states
+        Analyzed vote share vs seat share relationships
+        Highlighted top-performing parties and regions
+        Provided detailed constituency-level election insights
+        
+ Dashboard Features
+ 
+        Overview Dashboard (KPI Cards & Seat Distribution)
+        State-wise Analysis with Map Visuals
+        Political Landscape by State
+        Constituency-level Detailed Analysis
+        Slicers for dynamic filtering (State, Party, Alliance)
+        Drill-down and interactive navigation
